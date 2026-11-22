@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/ownllm-logo-horizontal.svg">
-  <img alt="OwnLLM Labs" src="./assets/ownllm-logo-horizontal.svg" width="420">
-</picture>
+<img alt="OwnLLM Labs" src="./assets/ownllm-logo-horizontal.svg" width="420">
 
 <br><br>
 
